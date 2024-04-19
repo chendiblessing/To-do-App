@@ -1,3 +1,5 @@
+package com.blair.ToDo;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
